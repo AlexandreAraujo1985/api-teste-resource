@@ -1,0 +1,6 @@
+C:\Users\Alexandre\Desktop\Teste_Resource\CursosResource\CursosResource.Domain\bin\Debug\CursosResource.Domain.dll
+C:\Users\Alexandre\Desktop\Teste_Resource\CursosResource\CursosResource.Domain\bin\Debug\CursosResource.Domain.pdb
+C:\Users\Alexandre\Desktop\Teste_Resource\CursosResource\CursosResource.Domain\obj\Debug\CursosResource.Domain.csprojAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Teste_Resource\CursosResource\CursosResource.Domain\obj\Debug\CursosResource.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Desktop\Teste_Resource\CursosResource\CursosResource.Domain\obj\Debug\CursosResource.Domain.dll
+C:\Users\Alexandre\Desktop\Teste_Resource\CursosResource\CursosResource.Domain\obj\Debug\CursosResource.Domain.pdb

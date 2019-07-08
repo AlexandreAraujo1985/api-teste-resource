@@ -1,0 +1,14 @@
+C:\Users\Alexandre\Desktop\Teste_Resource\CursosResource\CursosResource.Infra.Data\bin\Debug\CursosResource.Infra.Data.dll.config
+C:\Users\Alexandre\Desktop\Teste_Resource\CursosResource\CursosResource.Infra.Data\bin\Debug\CursosResource.Infra.Data.dll
+C:\Users\Alexandre\Desktop\Teste_Resource\CursosResource\CursosResource.Infra.Data\bin\Debug\CursosResource.Infra.Data.pdb
+C:\Users\Alexandre\Desktop\Teste_Resource\CursosResource\CursosResource.Infra.Data\bin\Debug\CursosResource.Domain.dll
+C:\Users\Alexandre\Desktop\Teste_Resource\CursosResource\CursosResource.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Alexandre\Desktop\Teste_Resource\CursosResource\CursosResource.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexandre\Desktop\Teste_Resource\CursosResource\CursosResource.Infra.Data\bin\Debug\CursosResource.Domain.pdb
+C:\Users\Alexandre\Desktop\Teste_Resource\CursosResource\CursosResource.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Alexandre\Desktop\Teste_Resource\CursosResource\CursosResource.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexandre\Desktop\Teste_Resource\CursosResource\CursosResource.Infra.Data\obj\Debug\CursosResource.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Teste_Resource\CursosResource\CursosResource.Infra.Data\obj\Debug\CursosResource.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Desktop\Teste_Resource\CursosResource\CursosResource.Infra.Data\obj\Debug\CursosResource.Infra.Data.csproj.CopyComplete
+C:\Users\Alexandre\Desktop\Teste_Resource\CursosResource\CursosResource.Infra.Data\obj\Debug\CursosResource.Infra.Data.dll
+C:\Users\Alexandre\Desktop\Teste_Resource\CursosResource\CursosResource.Infra.Data\obj\Debug\CursosResource.Infra.Data.pdb
