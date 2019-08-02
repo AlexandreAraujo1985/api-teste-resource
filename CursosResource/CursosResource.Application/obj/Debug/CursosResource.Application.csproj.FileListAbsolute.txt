@@ -7,3 +7,12 @@ C:\Users\Alexandre\Desktop\Teste_Resource\CursosResource\CursosResource.Applicat
 C:\Users\Alexandre\Desktop\Teste_Resource\CursosResource\CursosResource.Application\bin\Debug\CursosResource.Domain.dll
 C:\Users\Alexandre\Desktop\Teste_Resource\CursosResource\CursosResource.Application\bin\Debug\CursosResource.Domain.pdb
 C:\Users\Alexandre\Desktop\Teste_Resource\CursosResource\CursosResource.Application\obj\Debug\CursosResource.Application.csproj.CopyComplete
+C:\Users\Alexandre\Documents\RepositoriosGit\TesteCurso\CursosResource\CursosResource.Application\bin\Debug\CursosResource.Application.dll
+C:\Users\Alexandre\Documents\RepositoriosGit\TesteCurso\CursosResource\CursosResource.Application\bin\Debug\CursosResource.Application.pdb
+C:\Users\Alexandre\Documents\RepositoriosGit\TesteCurso\CursosResource\CursosResource.Application\bin\Debug\CursosResource.Domain.dll
+C:\Users\Alexandre\Documents\RepositoriosGit\TesteCurso\CursosResource\CursosResource.Application\bin\Debug\CursosResource.Domain.pdb
+C:\Users\Alexandre\Documents\RepositoriosGit\TesteCurso\CursosResource\CursosResource.Application\obj\Debug\CursosResource.Application.csprojAssemblyReference.cache
+C:\Users\Alexandre\Documents\RepositoriosGit\TesteCurso\CursosResource\CursosResource.Application\obj\Debug\CursosResource.Application.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Documents\RepositoriosGit\TesteCurso\CursosResource\CursosResource.Application\obj\Debug\CursosResource.Application.csproj.CopyComplete
+C:\Users\Alexandre\Documents\RepositoriosGit\TesteCurso\CursosResource\CursosResource.Application\obj\Debug\CursosResource.Application.dll
+C:\Users\Alexandre\Documents\RepositoriosGit\TesteCurso\CursosResource\CursosResource.Application\obj\Debug\CursosResource.Application.pdb
