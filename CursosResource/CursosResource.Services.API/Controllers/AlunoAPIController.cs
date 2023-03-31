@@ -48,7 +48,6 @@ namespace CursosResource.Services.API.Controllers
         {
             try
             {
-                var a = "teste";
                 if (string.IsNullOrEmpty(aluno.Nome) || aluno.Idade < 17)
                     return Request.CreateResponse(HttpStatusCode.BadRequest, new { mensagem = "Favor verifique se o nome digitado está correto ou a idade esta dentro para permitido para este curso" });
 
